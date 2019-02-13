@@ -14,5 +14,5 @@ Target is to build up a dynamic portofilo website for myself.
 | Language  | Python      |
 | Framework | Flask       |
 | Template  | Jinja       |
-| Database  | PostgreSQL  |
+
 
